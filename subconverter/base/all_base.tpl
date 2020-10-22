@@ -169,7 +169,7 @@ https://raw.githubusercontent.com/neverlaughtingboy/AppAssist/master/QuantumultX
 
 [task_local]
 #Nobyda
-0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png, enabled=true
+0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/tieba/tieba.cookie.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/tieba.png, enabled=true
 0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=true
 0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/iQIYI.png, enabled=true
 [mitm]
