@@ -122,14 +122,35 @@ server=8.8.8.8
 [policy]
 static=♻️ 自动选择, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Auto.png
 static=🔰 节点选择, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
+static=🚀 节点选择, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
+static=🚀 手动切换, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Static.png
+static=📲 电报消息, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+static=📲 电报信息, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+static=📹 油管视频, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YouTube.png
+static=🎥 奈飞视频, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix.png
+static=📺 巴哈姆特, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bahamut.png
 static=🌍 国外媒体, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
 static=🌏 国内媒体, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/DomesticMedia.png
+static=🌏 出海媒体, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/StreamingSE.png
+static=📢 谷歌FCM, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
 static=Ⓜ️ 微软服务, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png
-static=📲 电报信息, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+static=Ⓜ️ 微软云盘, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/OneDrive.png
 static=🍎 苹果服务, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
+static=🎮 游戏平台, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Game.png
+static=🎶 网易音乐, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music.png
 static=🎯 全球直连, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
 static=🛑 全球拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
+static=🛑 广告拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
+static=🍃 应用净化, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hijacking.png
 static=🐟 漏网之鱼, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
+static=🇭🇰 香港节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hong_Kong.png
+static=🇯🇵 日本节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Japan.png
+static=🇺🇲 美国节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/United_States.png
+static=🇸🇬 狮城节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Singapore.png
+static=🇨🇳 台湾节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TW.png
+static=🇰🇷 韩国节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Korea.png
+static=🎥 奈飞节点, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix_Letter.png
+
 
 [server_remote]
 
