@@ -157,6 +157,7 @@ static=🎥 奈飞节点, direct, img-url=https://raw.githubusercontent.com/Kool
 [filter_remote]
 
 [rewrite_remote]
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/General.conf, tag=DivineEngine Rewrite, enabled=true
 
 [server_local]
 
