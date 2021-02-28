@@ -31,7 +31,7 @@ jobs:
       run: |
         cp -f subconverter/pref.example.ini subconverter/pref.ini
         sed -i 's/api_mode=false/api_mode=true/g' subconverter/pref.ini
-        sed -i 's/managed_config_prefix=http:\/\/127.0.0.1:25500/managed_config_prefix=https:\/\/sub-beta.now.sh/g' subconverter/pref.ini
+        sed -i 's/managed_config_prefix=http:\/\/127.0.0.1:25500/managed_config_prefix=https:\/\/wjjzzd.xyz/g' subconverter/pref.ini
         sed -i 's/async_fetch_ruleset=false/async_fetch_ruleset=true/g' subconverter/pref.ini
         sed -i 's/max_concurrent_threads=./max_concurrent_threads=1/g' subconverter/pref.ini
     - name: Add & Commit
